@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Dribble Link
+## Dribbble Link
 UI Idea has been taken from [https://dribbble.com/shots/6478572-Dental-Clinic-Personal-Account](https://dribbble.com/shots/6478572-Dental-Clinic-Personal-Account).
 
 ## Available Scripts

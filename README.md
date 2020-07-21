@@ -1,11 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Dribble Link
-UI Idea has been taken from [https://dribbble.com/shots/6478572-Dental-Clinic-Personal-Account](here).
+UI Idea has been taken from [https://dribbble.com/shots/6478572-Dental-Clinic-Personal-Account](https://dribbble.com/shots/6478572-Dental-Clinic-Personal-Account).
 
 ## Available Scripts
+First Clone/Download this repo
 
 In the project directory, you can run:
+
+### `yarn install`
+
+It will install all the required packages.<br/>
+
+Now run,<br/>
 
 ### `yarn start`
 
